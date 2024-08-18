@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Devops-edureka-class/practice-17th-august/mlruns/994732744331451235/47a93ca017354787ae005856ccb51879/artifacts
+end_time: 1723915612779
+entry_point_name: ''
+experiment_id: '994732744331451235'
+lifecycle_stage: active
+run_id: 47a93ca017354787ae005856ccb51879
+run_name: RandomForestRun
+run_uuid: 47a93ca017354787ae005856ccb51879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723915607866
+status: 3
+tags: []
+user_id: DELL

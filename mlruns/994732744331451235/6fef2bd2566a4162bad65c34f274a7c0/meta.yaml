@@ -1,0 +1,16 @@
+artifact_uri: file:///F:/Devops-edureka-class/practice-17th-august/mlruns/994732744331451235/6fef2bd2566a4162bad65c34f274a7c0/artifacts
+deleted_time: 1723915763048
+end_time: 1723913485142
+entry_point_name: ''
+experiment_id: '994732744331451235'
+lifecycle_stage: deleted
+run_id: 6fef2bd2566a4162bad65c34f274a7c0
+run_name: loud-rook-764
+run_uuid: 6fef2bd2566a4162bad65c34f274a7c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723913476872
+status: 3
+tags: []
+user_id: DELL

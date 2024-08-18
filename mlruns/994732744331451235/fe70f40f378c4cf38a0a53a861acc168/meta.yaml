@@ -1,0 +1,16 @@
+artifact_uri: file:///F:/Devops-edureka-class/practice-17th-august/mlruns/994732744331451235/fe70f40f378c4cf38a0a53a861acc168/artifacts
+deleted_time: 1723915763066
+end_time: 1723914840057
+entry_point_name: ''
+experiment_id: '994732744331451235'
+lifecycle_stage: deleted
+run_id: fe70f40f378c4cf38a0a53a861acc168
+run_name: logistic
+run_uuid: fe70f40f378c4cf38a0a53a861acc168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723914834365
+status: 4
+tags: []
+user_id: DELL

@@ -1,0 +1,16 @@
+artifact_uri: file:///F:/Devops-edureka-class/practice-17th-august/mlruns/994732744331451235/2f288fd50b1a4f4bac9a6990d89ace08/artifacts
+deleted_time: 1723915763050
+end_time: 1723914271522
+entry_point_name: ''
+experiment_id: '994732744331451235'
+lifecycle_stage: deleted
+run_id: 2f288fd50b1a4f4bac9a6990d89ace08
+run_name: colorful-penguin-801
+run_uuid: 2f288fd50b1a4f4bac9a6990d89ace08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723914202082
+status: 4
+tags: []
+user_id: DELL
